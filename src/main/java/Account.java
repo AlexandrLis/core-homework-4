@@ -4,8 +4,8 @@ public class Account {
     private int deposit;
     private int takeMoney;
 
-    public Account(int balance) {
-        this.balance = balance;
+    public Account() {
+
     }
 
     public int getBalance() {
